@@ -72,8 +72,8 @@ NoneBot 拥有丰富的社区资源，欢迎开发者使用或者参与 NoneBot 
     <td>
       <a href="https://github.com/nonebot/adapter-qqguild">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/nonebot/adapter-qqguild/image?logo=https%3A%2F%2Fgithub.com%2Fnonebot%2Fadapter-qqguild%2Fraw%2Fmaster%2Fassets%2Flogo.png&owner=1&pattern=Solid&stargazers=1&theme=Dark">
-          <img src="https://socialify.git.ci/nonebot/adapter-qqguild/image?logo=https%3A%2F%2Fgithub.com%2Fnonebot%2Fadapter-qqguild%2Fraw%2Fmaster%2Fassets%2Flogo.png&owner=1&pattern=Solid&stargazers=1&theme=Light" alt="adapter-qqguild" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/nonebot/adapter-qqguild/image?description=1&descriptionEditable=NoneBot2%20QQ%20%E9%A2%91%E9%81%93%E9%80%82%E9%85%8D%E5%99%A8&logo=https%3A%2F%2Fgithub.com%2Fnonebot%2Fadapter-qqguild%2Fraw%2Fmaster%2Fassets%2Flogo.png&owner=1&pattern=Solid&stargazers=1&theme=Dark">
+          <img src="https://socialify.git.ci/nonebot/adapter-qqguild/image?description=1&descriptionEditable=NoneBot2%20QQ%20%E9%A2%91%E9%81%93%E9%80%82%E9%85%8D%E5%99%A8&logo=https%3A%2F%2Fgithub.com%2Fnonebot%2Fadapter-qqguild%2Fraw%2Fmaster%2Fassets%2Flogo.png&owner=1&pattern=Solid&stargazers=1&theme=Light" alt="adapter-qqguild" />
         </picture>
       </a>
     </td>
