@@ -4,7 +4,7 @@
 
 此外，NB-CLI 脚手架能够帮助开发者更快速地上手，省去了繁琐的机器人框架细节，让开发者更加专注于业务逻辑的编写。NoneBug 测试框架让开发者可以轻松地进行单元测试，以保证代码的质量和稳定性。
 
-NoneBot 拥有丰富的社区资源，欢迎开发者使用或者参与 NoneBot 项目。[点击前往 NoneBot2 文档 ☞](https://v2.nonebot.dev)
+NoneBot 拥有丰富的社区资源，欢迎开发者使用或者参与 NoneBot 项目。[点击前往 NoneBot2 文档 ☞](https://nonebot.dev)
 <table>
   <tr>
     <td>
