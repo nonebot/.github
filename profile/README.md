@@ -52,10 +52,10 @@ NoneBot 拥有丰富的社区资源，欢迎开发者使用或者参与 NoneBot 
       </a>
     </td>
     <td>
-      <a href="https://github.com/nonebot/adapter-telegram">
+      <a href="https://github.com/nonebot/adapter-qq">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/nonebot/adapter-telegram/image?description=1&descriptionEditable=NoneBot2%20Telegram%20%E9%80%82%E9%85%8D%E5%99%A8&logo=https%3A%2F%2Fgithub.com%2Fnonebot%2Fadapter-telegram%2Fraw%2Fbeta%2Fdocs%2Flogo.png&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark">
-          <img src="https://socialify.git.ci/nonebot/adapter-telegram/image?description=1&descriptionEditable=NoneBot2%20Telegram%20%E9%80%82%E9%85%8D%E5%99%A8&logo=https%3A%2F%2Fgithub.com%2Fnonebot%2Fadapter-telegram%2Fraw%2Fbeta%2Fdocs%2Flogo.png&name=1&owner=1&pattern=Solid&stargazers=1&theme=Light" alt="adapter-telegram" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/nonebot/adapter-qq/image?description=1&descriptionEditable=NoneBot2%20QQ%20%E9%80%82%E9%85%8D%E5%99%A8&logo=https%3A%2F%2Fgithub.com%2Fnonebot%2Fadapter-qqguild%2Fraw%2Fmaster%2Fassets%2Flogo.png&owner=1&pattern=Solid&stargazers=1&theme=Dark">
+          <img src="https://socialify.git.ci/nonebot/adapter-qq/image?description=1&descriptionEditable=NoneBot2%20QQ%20%E9%80%82%E9%85%8D%E5%99%A8&logo=https%3A%2F%2Fgithub.com%2Fnonebot%2Fadapter-qqguild%2Fraw%2Fmaster%2Fassets%2Flogo.png&owner=1&pattern=Solid&stargazers=1&theme=Light" alt="adapter-qqguild" />
         </picture>
       </a>
     </td>
@@ -70,10 +70,10 @@ NoneBot 拥有丰富的社区资源，欢迎开发者使用或者参与 NoneBot 
       </a>
     </td>
     <td>
-      <a href="https://github.com/nonebot/adapter-qqguild">
+      <a href="https://github.com/nonebot/adapter-telegram">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/nonebot/adapter-qqguild/image?description=1&descriptionEditable=NoneBot2%20QQ%20%E9%A2%91%E9%81%93%E9%80%82%E9%85%8D%E5%99%A8&logo=https%3A%2F%2Fgithub.com%2Fnonebot%2Fadapter-qqguild%2Fraw%2Fmaster%2Fassets%2Flogo.png&owner=1&pattern=Solid&stargazers=1&theme=Dark">
-          <img src="https://socialify.git.ci/nonebot/adapter-qqguild/image?description=1&descriptionEditable=NoneBot2%20QQ%20%E9%A2%91%E9%81%93%E9%80%82%E9%85%8D%E5%99%A8&logo=https%3A%2F%2Fgithub.com%2Fnonebot%2Fadapter-qqguild%2Fraw%2Fmaster%2Fassets%2Flogo.png&owner=1&pattern=Solid&stargazers=1&theme=Light" alt="adapter-qqguild" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/nonebot/adapter-telegram/image?description=1&descriptionEditable=NoneBot2%20Telegram%20%E9%80%82%E9%85%8D%E5%99%A8&logo=https%3A%2F%2Fgithub.com%2Fnonebot%2Fadapter-telegram%2Fraw%2Fbeta%2Fdocs%2Flogo.png&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark">
+          <img src="https://socialify.git.ci/nonebot/adapter-telegram/image?description=1&descriptionEditable=NoneBot2%20Telegram%20%E9%80%82%E9%85%8D%E5%99%A8&logo=https%3A%2F%2Fgithub.com%2Fnonebot%2Fadapter-telegram%2Fraw%2Fbeta%2Fdocs%2Flogo.png&name=1&owner=1&pattern=Solid&stargazers=1&theme=Light" alt="adapter-telegram" />
         </picture>
       </a>
     </td>
