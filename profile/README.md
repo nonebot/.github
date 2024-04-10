@@ -78,4 +78,14 @@ NoneBot 拥有丰富的社区资源，欢迎开发者使用或者参与 NoneBot 
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/IUnlimit/nonebot-adapter-rocketchat">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/IUnlimit/nonebot-adapter-rocketchat/image?description=1&descriptionEditable=NoneBot2%20Rocket.Chat%20%E9%80%82%E9%85%8D%E5%99%A8&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark">
+          <img src="https://socialify.git.ci/IUnlimit/nonebot-adapter-rocketchat/image?description=1&descriptionEditable=NoneBot2%20Rocket.Chat%20%E9%80%82%E9%85%8D%E5%99%A8&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Light" alt="nonebot-adapter-rocketchat"/>
+        </picture>
+      </a>
+    </td>
+  </tr>
 </table>
